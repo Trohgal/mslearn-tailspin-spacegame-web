@@ -1,5 +1,4 @@
-
-[![Build Status](https://dev.azure.com/akworkvss/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status%2FTrohgal.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/akworkvss/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=8&branchName=build-pipeline)
+[![Build Status](https://dev.azure.com/akworkvss/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status%2FTrohgal.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/akworkvss/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=8&branchName=main)
 
 # Contributing
 
